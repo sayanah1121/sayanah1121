@@ -1,76 +1,64 @@
-<div align="center">
+# 🚀 Sayan Sarkar | [cite_start]Data Engineer [cite: 1, 2]
+### **Azure Cloud | ETL/ELT Architect | [cite_start]Real-Time Streaming** [cite: 2, 4]
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayan+Sarkar;Data+Engineer+by+Day+☀️;Robotics+Builder+by+Night+🌑;Building+Scalable+Pipelines...;...and+Autonomous+Robots!" alt="Typing SVG" />
-
-  # 🚀 Data Engineer | Cloud Architect | Robotics Enthusiast
-
-  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayan-sarkar-a7b206214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayansarkar1121@gmail.com)
-
-</div>
+[cite_start][![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayan-sarkar-data-engineer) [cite: 3]
+[cite_start][![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayansarkar1121@gmail.com) [cite: 3]
+[cite_start][![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayanah1121) [cite: 3]
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Profile
+[cite_start]I am a **Data Engineer** specialized in designing and optimizing high-performance data architectures[cite: 4]. [cite_start]Currently at **Bitwise Solutions**, I focus on bridging legacy enterprise banking systems with modern cloud-native environments[cite: 12, 14]. 
 
-**Welcome to my digital workshop!**
+[cite_start]My core focus is building **production-grade ETL/ELT pipelines** that prioritize data integrity, scalability, and performance tuning[cite: 4, 6]. [cite_start]I thrive on converting complex raw data streams into actionable analytical assets[cite: 18].
 
-I am a **Data Engineer** with a passion for building systems that are as robust as they are scalable. My engineering philosophy is simple: **clean code drives clean data.**
-
-By day, I work at **Bitwise Solutions**, where I bridge the gap between legacy enterprise infrastructure and modern cloud architectures. I specialize in architecting **Distributed ETL Pipelines** that handle high-volume banking transactions, ensuring that data flows seamlessly from Mainframes to Data Warehouses with 99.9% reliability. I thrive on solving complex problems—whether it's resolving "dependency hell" in Docker containers or tuning SQL queries to shave off milliseconds of latency.
-
-By night, I swap Python for **C++** and Airflow for **ROS2**. My passion lies in **Robotics**—building autonomous systems that navigate the physical world. This unique combination of skills gives me a competitive edge: I understand high-level system architecture (from Data Engineering) and low-level resource optimization (from Robotics).
-
-Currently, I am focused on mastering **Cloud-Native Data Engineering** on GCP & Azure while experimenting with autonomous navigation algorithms.
+* **Professional Impact:** Reduced batch pipeline execution time by **30%** via SQL query optimization and TWS job schedule fine-tuning[cite: 14].
+* [cite_start]**Data Integrity:** Eliminated data integrity violations by building automated duplicate record detection logic at the database level[cite: 16].
+* [cite_start]**System Reliability:** Improved system uptime by **35%** through fault-tolerant design[cite: 40].
 
 ---
 
 ### 🛠️ Technical Arsenal
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Big Data** | [cite_start]**Azure Data Factory (ADF), ADLS Gen2, Azure Databricks, Synapse Analytics**, Snowflake, GCP, **Apache Spark / PySpark** [cite: 5, 8] |
+| **Orchestration** | [cite_start]**Apache Airflow**, GitHub Actions (CI/CD), Maestro (TWS) [cite: 8, 10] |
+| **Streaming** | [cite_start]**Apache Kafka**, Zookeeper, Spark Streaming [cite: 8, 29] |
+| **Languages** | [cite_start]**SQL (PostgreSQL, Oracle)**, Python, Bash/Shell Scripting, C++ [cite: 9] |
+| **Data Ops** | [cite_start]Docker, dbt (Data Build Tool), Git, REST APIs, Pandas [cite: 10] |
+
+---
+
+### 🏆 Featured Data Engineering Projects
+
+#### [cite_start]🤖 [Automated AI Job Hunter Pipeline](https://github.com/sayanah1121/Job-Hunter-pipeline) [cite: 20]
+[cite_start]**End-to-End ETL with LLM Intelligence** [cite: 20]
+* **Extract:** Engineered a fully automated nightly ETL pipeline that extracts live job postings via **Serper.dev REST API** across 10+ dynamically generated role queries[cite: 23].
+* [cite_start]**Transform:** Built an AI-powered Transform layer using **Anthropic Claude (Haiku)** to filter roles by experience and assign a 0-100 match score based on tech stack alignment[cite: 24].
+* [cite_start]**Load:** Produced categorized multi-sheet reports using **Pandas** and dispatched via automated **SMTP email delivery** every morning[cite: 25].
+* **Orchestration:** Orchestrated the full pipeline lifecycle with **Apache Airflow** and **GitHub Actions** cron scheduling for cloud deployment[cite: 26].
+
+#### [cite_start]🛒 [LiveKart - Real-Time Streaming Engine](https://github.com/sayanah1121/livekart-streaming) [cite: 27, 28]
+**High-Velocity Event Processing** [cite: 31]
+* [cite_start]**Streaming Architecture:** Engineered a fault-tolerant streaming platform using **Apache Kafka** and **Zookeeper** to capture and process high-velocity e-commerce clickstream events[cite: 31].
+* [cite_start]**Real-Time Processing:** Developed **Spark Streaming** jobs to filter, enrich, and validate JSON data in real time, enforcing schema contracts[cite: 32].
+* **Containerization:** Deployed fully containerized producer and consumer microservices within a unified **Docker Compose** network ensuring service isolation and scalability[cite: 33].
+
+---
+
+### 📊 GitHub Activity
 <div align="center">
-
-| **Core Languages** | **Big Data & Orchestration** | **Cloud & Infrastructure** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) <br> ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) <br> ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanah1121&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" /> [cite: 3]
 </div>
 
 ---
 
-### 🏆 Signature Projects
-
-#### 1. 🏦 [FinTech Nexus Distributed Pipeline](https://github.com/sayanah1121/FinTech-Nexus-Pipeline)
-> *The Flagship Orchestration Project*
-
-A robust **Lakehouse Architecture** designed to process high-volume financial transaction streams.
-* **The Challenge:** Processing parallel streams from Amazon, Flipkart, and PayPal with differing schemas and latency requirements.
-* **The Solution:** Architected a "Fan-Out/Fan-In" DAG using **Apache Airflow** and **PySpark**.
-* **Key Tech:** Dockerized Airflow, PostgreSQL, Delta Lake, SHA-256 PII Masking.
-* **Impact:** Reduced data latency by **40%** and automated 100% of partner settlement reporting.
-
-#### 2. 🛒 [Livekart Real-Time Streaming Engine](https://github.com/sayanah1121/livekart-streaming)
-> *The Speed Demon*
-
-A fault-tolerant streaming ingestion layer built for high-velocity e-commerce data.
-* **The Challenge:** Capturing and filtering clickstream events in real-time without data loss.
-* **The Solution:** Deployed a microservices architecture using **Apache Kafka** and **Zookeeper** on a custom Docker network.
-* **Key Tech:** Spark Streaming, Kafka Brokers, Python Consumers.
-* **Impact:** Achieved sub-second latency for user behavior analysis.
-
----
-
-### ⚡ GitHub Stats
+### ⚡ Beyond the Code
+* **Robotics Enthusiast:** Applying low-level C++ and logic to build autonomous systems.
+* **Problem Solver:** Experienced in conducting root-cause analysis of transformation failures and supporting production triage across complex multi-system data flows[cite: 11, 17].
+* [cite_start]**Continuous Learner:** Expanding expertise in cloud data platforms, stream processing, and distributed systems[cite: 8, 11].
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanah1121&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  
-  **Let's build something scalable together.**
-  
-  [LinkedIn](https://www.linkedin.com/in/sayan-sarkar-a7b206214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [GitHub](https://github.com/sayanah1121)
-  
+  <strong>Let's build a scalable data future together.</strong>
 </div>
